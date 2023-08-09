@@ -1,4 +1,4 @@
-# Bacon's Cipher Implementation in C
+# Bacon's Cipher Implementation 
 
 ## Table of Contents
 
@@ -8,6 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+-  - [Testing](#testing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -54,6 +55,12 @@ Ensure that you handle error cases and follow the guidelines outlined in the ass
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or improvements, please submit a pull request. Follow the provided guidelines for contributing and ensure that your code adheres to the coding standards.
+
+## Testing 
+
+- The provided unit tests (written using Criterion) help verify the correctness of your implementation.
+- Test your code with both computational tests and Valgrind tests for memory errors.
+- Use the provided make commands to compile, test, and check test coverage.
 
 ## License
 
