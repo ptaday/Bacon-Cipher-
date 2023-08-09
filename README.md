@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
--  - [Testing](#testing)
+- [Testing](#testing)
 - [License](#license)
 - [Contact](#contact)
 
